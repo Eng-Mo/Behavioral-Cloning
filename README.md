@@ -78,7 +78,7 @@ After many trails the good result generated thanks to many tuning to get the out
 
 The main challenge was with the data as the model clone my behavioral driving included my bad driving part. Correlation angle for right/left cameras were implemented but the result was make the car autonomously driving in zig zag manner. Therefore this model need data taken by joystick and fast computer to avoid any controlling delaying. 
 
-The final step was to run the simulator to see how well the car was driving around track one. due to low range of zero angles , the vehicle steers left and right with higher rate. however I think due to final output the vehicle drives it self in both tracks in endless of labs and file `Model_summary` contains the model summary and number of tuned parameters.
+The final step was to run the simulator to see how well the car was driving around track one. 
 
 
 Track1_result: https://www.youtube.com/watch?v=kBO4qfQ5_Y4&t=12s
